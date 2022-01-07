@@ -1,0 +1,4 @@
+public enum State {
+  BASIC, SPEAKING, BASIC_BLINKING, SPEAKING_BLINKING
+  }
+  
